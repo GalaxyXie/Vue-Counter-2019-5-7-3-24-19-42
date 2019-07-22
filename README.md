@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 第一个Vue练习-Counter组件
 
 ## 要求
@@ -35,3 +36,34 @@ git clone repo_of_this_template
 - 提交
 
 - 等待结果
+=======
+# vue-practice
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn run serve
+```
+
+### Compiles and minifies for production
+```
+yarn run build
+```
+
+### Run your tests
+```
+yarn run test
+```
+
+### Lints and fixes files
+```
+yarn run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+>>>>>>> first commit
